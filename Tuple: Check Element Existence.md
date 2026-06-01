@@ -11,7 +11,20 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 Add code here
+~~~
+string="google" 
+
+if string==string[::-1]: 
+
+   print ("The entered string is palindrome")
+
+else: 
+
+   print ("The entered string is not palindrome")
+~~~
 
 ## Output
+<img width="529" height="119" alt="image" src="https://github.com/user-attachments/assets/c2e33419-39ff-4146-a5d0-58651f59805b" />
 
 ## Result
+Thus the program has been successfully executed
